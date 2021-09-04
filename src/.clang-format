@@ -1,0 +1,5 @@
+# Google C++ スタイルガイドに従う
+BasedOnStyle: Google
+
+# ただし、80文字制限だけは気が狂いそうになるので無効とする
+ColumnLimit: 0

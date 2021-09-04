@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "key_sequencer", "src\key_sequencer.vcxproj", "{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug full note|x64 = Debug full note|x64
+		Debug full note|x86 = Debug full note|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release full note(MBCS)|x64 = Release full note(MBCS)|x64
+		Release full note(MBCS)|x86 = Release full note(MBCS)|x86
+		Release full note(Unicode)|x64 = Release full note(Unicode)|x64
+		Release full note(Unicode)|x86 = Release full note(Unicode)|x86
+		Release(MBCS)|x64 = Release(MBCS)|x64
+		Release(MBCS)|x86 = Release(MBCS)|x86
+		Release(Unicode)|x64 = Release(Unicode)|x64
+		Release(Unicode)|x86 = Release(Unicode)|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Debug full note|x64.ActiveCfg = Debug full note|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Debug full note|x64.Build.0 = Debug full note|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Debug full note|x86.ActiveCfg = Debug full note|Win32
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Debug full note|x86.Build.0 = Debug full note|Win32
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Debug|x64.ActiveCfg = Debug|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Debug|x64.Build.0 = Debug|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Debug|x86.Build.0 = Debug|Win32
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release full note(MBCS)|x64.ActiveCfg = Release full note(MBCS)|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release full note(MBCS)|x64.Build.0 = Release full note(MBCS)|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release full note(MBCS)|x86.ActiveCfg = Release full note(MBCS)|Win32
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release full note(MBCS)|x86.Build.0 = Release full note(MBCS)|Win32
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release full note(Unicode)|x64.ActiveCfg = Release full note(Unicode)|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release full note(Unicode)|x64.Build.0 = Release full note(Unicode)|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release full note(Unicode)|x86.ActiveCfg = Release full note(Unicode)|Win32
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release full note(Unicode)|x86.Build.0 = Release full note(Unicode)|Win32
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release(MBCS)|x64.ActiveCfg = Release(MBCS)|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release(MBCS)|x64.Build.0 = Release(MBCS)|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release(MBCS)|x86.ActiveCfg = Release(MBCS)|Win32
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release(MBCS)|x86.Build.0 = Release(MBCS)|Win32
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release(Unicode)|x64.ActiveCfg = Release(Unicode)|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release(Unicode)|x64.Build.0 = Release(Unicode)|x64
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release(Unicode)|x86.ActiveCfg = Release(Unicode)|Win32
+		{D6678C2D-C5C6-4A15-A2A7-08BC808659B7}.Release(Unicode)|x86.Build.0 = Release(Unicode)|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0C9C0D1-DA48-433B-A50A-0D8276CA2963}
+	EndGlobalSection
+EndGlobal
