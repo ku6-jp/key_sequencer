@@ -37,7 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 このバージョンはGitHub移行前のバージョンであり、Gitには含まれない。<br>
 現在以下のURLで公開しているが、将来的に公開停止される予定。
 
-- https://ku6.jp/archive/key_sequencer_1_3_1.zip
+- https://ku6.jp/key_sequencer/archive/key_sequencer_1_3_1.zip
 
 ### Added
 
@@ -50,7 +50,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 このバージョンはGitHub移行前のバージョンであり、Gitには含まれない。<br>
 現在以下のURLで公開しているが、将来的に公開停止される予定。
 
-- https://ku6.jp/archive/key_sequencer_1_3_0.zip
+- https://ku6.jp/key_sequencer/archive/key_sequencer_1_3_0.zip
 
 ### Added
 
@@ -70,7 +70,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 このバージョンはGitHub移行前のバージョンであり、Gitには含まれない。<br>
 現在以下のURLで公開しているが、将来的に公開停止される予定。
 
-- https://ku6.jp/archive/key_sequencer_1_2_0.zip
+- https://ku6.jp/key_sequencer/archive/key_sequencer_1_2_0.zip
 
 ### Changed
 
@@ -92,7 +92,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 このバージョンはGitHub移行前のバージョンであり、Gitには含まれない。<br>
 現在以下のURLで公開しているが、将来的に公開停止される予定。
 
-- https://ku6.jp/archive/key_sequencer_1_1_0.zip
+- https://ku6.jp/key_sequencer/archive/key_sequencer_1_1_0.zip
 
 ### Added
 
@@ -110,7 +110,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 このバージョンはGitHub移行前のバージョンであり、Gitには含まれない。<br>
 現在以下のURLで公開しているが、将来的に公開停止される予定。
 
-- https://ku6.jp/archive/key_sequencer_1_0_0.zip
+- https://ku6.jp/key_sequencer/archive/key_sequencer_1_0_0.zip
 
 ### Added
 
