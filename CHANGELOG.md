@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- キー設定ウィンドウの表示領域が足りなくなったのでレイアウトを変更
 - ウィンドウ背景色がWindowsのボタン色の設定に従うよう変更
     - レジストリ「\HKEY_CURRENT_USER\Control Panel\Colors\ButtonFace」の設定値
         - Windows10だとレジストリ直接編集以外の設定方法は無い模様

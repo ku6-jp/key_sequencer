@@ -28,19 +28,22 @@ MIDI(SMF)ファイルを読み込むとメモリに全て乗せるので超巨�
 
 ## 実行ファイル
 
-実行ファイルは2種類存在する。
+GitHubの[Releases](https://github.com/ku6-jp/key_sequencer/releases)よりダウンロード可能。<br>
+(Microsoft Visual Studio Community 2019でビルドしたものでUnicode文字セット版)
+
+次のどちらかをダウンロードする。(vX.Y.Zの部分は実際のファイルではバージョン番号となる)
+- key_sequencer-vX.Y.Z-x86.zip
+    - 32bit版 (どちらが良いかよく解らなければこちらを使う)
+- key_sequencer-vX.Y.Z-x64.zip
+    - 64bit版
+
+zipファイルにはそれぞれ実行ファイルが2つ含まれる。
 
 - key_sequencer.exe
     - 通常版
 - key_sequencer_full_note.exe
     - 全ノート対応版
     - 通常版で音階が足りない場合はこちら
-
-これらの実行ファイルは以下の配布物に含まれる。(vX.Y.Zはバージョン番号)
-- key_sequencer-vX.Y.Z-x86.zip
-    - 32bit版
-- key_sequencer-vX.Y.Z-x64.zip
-    - 64bit版
 
 
 ## インストール
@@ -145,13 +148,13 @@ MIDI入力機器は現在一つだけ対応している。(複数接続されて
 | Optional | ModifierKeyDownJoinMilliseconds | 連続する2つのノートON間がこの時間内の場合、両方でONになっている修飾キーのダウンとアップをまとめる |
 
 
-## 配布場所
+## 公開場所
 
-GitHubにて配布
+GitHubで公開
 - https://github.com/ku6-jp/key_sequencer
 
-GitHubにはバージョン2.0.0より移行。<br>
-以前のURL( https://ku6.jp/key_sequencer/ )は上記のGitHubにリダイレクトする。
+GitHubにはバージョン2.0.0から移行した。<br>
+以前の公開場所( https://ku6.jp/key_sequencer/ )はアクセスすると上記のGitHubにリダイレクトする。
 
 ## 開発情報
 
